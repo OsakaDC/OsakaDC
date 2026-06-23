@@ -1,5 +1,18 @@
-# Hello
+# Who I Am 
 
-Hello everyone, welcome to my github page. 
+I am a self-taught programmer.  
 
-Feel free to reach out to me.
+Certificates:
+
+1. Microsoft Fundementals
+2. AWS Cloud Practitioner
+3. Dataiku Core Designer
+4. GitHub Foundations
+5. GitHub Advanced Security
+6. GitHub Administration
+7. GitHub Actions
+
+![cow](./images/cow.jpg)
+
+_This image has nothing to do with me. I just wanted to add something call to my profile._
+
