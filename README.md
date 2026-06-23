@@ -14,5 +14,5 @@ Certificates:
 
 ![cow](https://github.com/OsakaDC/OsakaDC/blob/main/image/cow.jpg)
 
-_This image has nothing to do with me. I just wanted to add something call to my profile._
+_This image has nothing to do with me. I just wanted to add something cool to my profile._
 
