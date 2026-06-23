@@ -12,7 +12,7 @@ Certificates:
 6. GitHub Administration
 7. GitHub Actions
 
-![cow](./images/cow.jpg)
+![cow](https://github.com/OsakaDC/OsakaDC/blob/main/image/cow.jpg)
 
 _This image has nothing to do with me. I just wanted to add something call to my profile._
 
