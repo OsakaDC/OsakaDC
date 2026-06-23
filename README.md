@@ -4,7 +4,7 @@ I am a self-taught programmer.
 
 Certificates:
 
-1. Microsoft Fundementals
+1. Microsoft Fundamentals
 2. AWS Cloud Practitioner
 3. Dataiku Core Designer
 4. GitHub Foundations
